@@ -1,5 +1,6 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
+# Clustering of categorial data without dimensionality reduction
 
  This script serves as an illustration of applying clustering to categorical data. It aims to provide a basic understanding of visualizing clustered categorical responses.
  The data has been generated in the script. We can see the clustering results of categorial data if we don't use dimensionality reduction. As we see this method is not very informative!
