@@ -1,7 +1,7 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
 
- This script serves as an illustration of applying K-means clustering to numerical representations of categorical data. It aims to provide a basic understanding of visualizing clustered categorical responses in a numerical context.
+ This script serves as an illustration of applying clustering to categorical data. It aims to provide a basic understanding of visualizing clustered categorical responses.
 
 
 
